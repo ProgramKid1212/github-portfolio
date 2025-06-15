@@ -40,7 +40,7 @@ My first project made in collaboration with Toxyn Games. This was made for the 2
 [Linkedin Social Media Post](https://www.linkedin.com/posts/toxyn-games_gamedev-indiegamedev-mentoring-activity-7203395453982240769-2thI?utm_source=share&utm_medium=member_desktop)
 
 
-## Video Game Side Project Gliding Demo
+##Side Project Gliding Demo
 Created a wingsuit style gliding system for a side project.
 
 ![Gliding Demo](https://github.com/user-attachments/assets/eaa629cf-b860-4795-8881-0d8f13d96747)
