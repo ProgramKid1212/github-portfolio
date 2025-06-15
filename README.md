@@ -1,6 +1,12 @@
 # Welcome to Ryan Kok's Portfolio!
 This is my portfolio showcasing my many projects over the years!
 
+## Platformer Demo ##
+Platformer Game Demo soon to be released on itch that I created while working at Toxyn Games: 
+
+![image](https://github.com/user-attachments/assets/0e736f29-693e-4011-a692-ec145cc865cb)
+
+
 ## Final Year University Project
 I participated in a university assignment where I worked with a team to design a mobile application that fitted the needs of a local business that we collaborated with. My final mark for this project was 92%.
 
