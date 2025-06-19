@@ -7,8 +7,8 @@ Platformer Game Demo soon to be released on itch that I created while working at
 ![image](https://github.com/user-attachments/assets/0e736f29-693e-4011-a692-ec145cc865cb)
 
 
-## Final Year University Project
-I participated in a university assignment where I worked with a team to design a mobile application that fitted the needs of a local business that we collaborated with. My final mark for this project was 92%.
+## Android Mobile Application
+I participated in a project where I collaborated with a local business to design a mobile application that fit their needs.
 
 ### Profile Page
 ###### The app had a profile creation and sign in process that allowed users to store their data in the Firebase backend.
